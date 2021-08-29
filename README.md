@@ -1,5 +1,5 @@
 # Solar-System
-Solar system is representation of the outer galaxy made in Unity3D 
+Solar system is representation of the outer galaxy made in Unity3D 🌓💫
 - 🤝 Hi, I’m @ArwaFuraih
 - 👩🏼‍💻 I’m interested in Game Development!
 - 👾 I’m currently learning Unity3D.
